@@ -1,2 +1,2 @@
 # Oongloosh
-An app that converts all vowels to "oo" or "OO".
+An app that converts all vowels in a given text to "oo" or "OO".
